@@ -1,0 +1,18 @@
+﻿Virtuelni metod je metod koji moze da se redefinise u naslednim klasama.
+Virtuelni metod ima implementaciju u baznoj klasi kao i u naslednoj klasi.
+Koristi se kada je metoda u sustini ima iste funkcionalnosti ali nekad nam treba malo dorade u naslednoj klasi.
+Virtuelni metod se kreira u baznoj klasi i overrajduje se u naslednoj metodi.
+Kreiramo virtuelni metod pomocu virtual keyworda a u naslednoj klasi koristimo override keyword.
+
+Kada se metod deklarise kao virtuelni u baznoj klasi on se opcionalno moze overrajdovati u naslednoj klasi.
+To je dobar primer polimorfizma.
+
+Kada metod ima virtual vrednost i ima istu definiciju u naslednoj klasi onda nema potrebe da se overrajduje u naslednoj klasi.
+Ali kada virtuelni metod ima drugaciju definiciju u bazi i u naslednoj metodi onda mora da se overrajduje.
+
+Kada je virtuelni metod pozvan, run-time tip objekta se proverava za overrajdujuci clan.
+Ovaj clan se poziva u vecini naslednih klasa.
+
+Najbitnije stavke:
+1. Po defaultu metode nisu virtuelne, to znaci da ne mozemo overrajdovati metodu koja nije virtuelna.
+2. Ne mozemo koristiti vitrual modifajer sa static, abstract, private ili override modifajerima.

@@ -1,0 +1,6 @@
+C:\Users\Nemanja Djordjevic\source\repos\VirtualMethodTutorials\VirtualMethodTutorials\bin\Debug\VirtualMethodTutorials.exe.config
+C:\Users\Nemanja Djordjevic\source\repos\VirtualMethodTutorials\VirtualMethodTutorials\bin\Debug\VirtualMethodTutorials.exe
+C:\Users\Nemanja Djordjevic\source\repos\VirtualMethodTutorials\VirtualMethodTutorials\bin\Debug\VirtualMethodTutorials.pdb
+C:\Users\Nemanja Djordjevic\source\repos\VirtualMethodTutorials\VirtualMethodTutorials\obj\Debug\VirtualMethodTutorials.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\VirtualMethodTutorials\VirtualMethodTutorials\obj\Debug\VirtualMethodTutorials.exe
+C:\Users\Nemanja Djordjevic\source\repos\VirtualMethodTutorials\VirtualMethodTutorials\obj\Debug\VirtualMethodTutorials.pdb
